@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PT Assistant</string>
+    <string name="client_list">Client list</string>
+    <string name="add_new_client">Add new client</string>
+    <string name="today">today</string>
+    <string name="all_apointments">all apointments</string>
+    <string name="addNewWorkout">addNewWorkout</string>
+    <string name="dateButton">date</string>
+    <!--    <string name="dateText">Pick a date:</string>-->
+    <!--    <string name="timeText">  At what time:  </string>-->
+    <string name="timeButton">time</string>
+    <string name="gymButton">GYM</string>
+    <string name="title_activity_gym_loc">Map</string>
+    <string name="gym_location">Gym location</string>
+    <!--    <string name="gymText">  Gym location:  </string>-->
+    <!--    <string name="title">  Schedule a workout</string>-->
+
+</resources>
